@@ -10,18 +10,21 @@ body {
 h2 {
     font-size: 4em;
     text-align: center;
+    color: #03030c;
 }
 
 h3 {
     margin-top: 2px;
     font-size: 2.5em;
     text-align: center;
+    color: #03030c;
 }
 
 p {
     font-size: 1.5em;
     text-align: justify;
     padding: 50px;
+    color: #03030c;
     
 }
 
@@ -32,4 +35,5 @@ p {
     border-radius: 50%;
     position: absolute;
     z-index: -1;
+    background-color: #f7f3cf;
 }
